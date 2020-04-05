@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+/Users/roman.styrku/Desktop/spring and hibernate/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/39016037.index
+/web-customer-tracker/src
+/Users/roman.styrku/Desktop/spring and hibernate/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3246518651.index
+/spring-mvc-demo/src
+/Users/roman.styrku/Desktop/spring and hibernate/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3750454120.index
+/web-customer-tracker/src

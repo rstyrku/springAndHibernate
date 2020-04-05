@@ -1,0 +1,7 @@
+package com.luv2code.springdemo.controller;
+
+@Controller
+@RequestMapping("/customer")
+public class CustomerController {
+
+}

@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Sat Apr 04 18:25:58 EDT 2020
+org.eclipse.jst.jee.server\:/binary\:/Users/roman.styrku/Desktop/spring\ and\ hibernate/web-customer-tracker/WebContent/WEB-INF/lib/spring-web-5.2.5.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.5.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:/Users/roman.styrku/Desktop/spring\ and\ hibernate/web-customer-tracker/WebContent/WEB-INF/lib/spring-web-5.2.5.RELEASE.jar=WEB-INF/lib/spring-web-5.2.5.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:/Users/roman.styrku/Desktop/spring\ and\ hibernate/spring-mvc-demo/WebContent/WEB-INF/lib/spring-web-5.2.3.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.3.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:/Users/roman.styrku/Desktop/spring\ and\ hibernate/spring-mvc-demo/WebContent/WEB-INF/lib/spring-web-5.2.3.RELEASE.jar=WEB-INF/lib/spring-web-5.2.3.RELEASE.jar
