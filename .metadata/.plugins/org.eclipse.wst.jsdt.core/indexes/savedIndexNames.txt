@@ -1,7 +1,1 @@
 INDEX VERSION 1.4+/Users/roman.styrku/Desktop/spring and hibernate/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-3750454120.index
-2355451324.index
-2010790676.index
-2649326480.index
-3517445706.index
-904092550.index
